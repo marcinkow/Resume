@@ -10,6 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-actions": "^0.0.1-beta.204",
+    "@tanstack/react-loaders": "^0.0.1-beta.204",
+    "@tanstack/react-router": "^0.0.1-beta.211",
+    "@tanstack/router-devtools": "^0.0.1-beta.211",
+    "axios": "^1.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
